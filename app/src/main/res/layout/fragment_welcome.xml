@@ -46,7 +46,6 @@
             android:id="@+id/button_understand"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:gravity="bottom"
             android:text="@string/button_understand"
             app:layout_constraintBottom_toBottomOf="parent" />
 
